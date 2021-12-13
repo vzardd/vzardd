@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @vzardd
-- 👀 I’m interested in Programming & Stocks
+- 👀 I love programming & stocks
+- 👨‍💻 I'm an app developer and web designer
+- 🐱‍👤 I love challenges
 
 <!---
 vzardd/vzardd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
